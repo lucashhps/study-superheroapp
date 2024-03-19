@@ -22,7 +22,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    SuperheroApp()git remote add origin https://github.com/lucashhps/study-superheroapp.git
+                    SuperheroApp()
                 }
             }
         }
